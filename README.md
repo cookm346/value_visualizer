@@ -24,4 +24,6 @@ The image below shows the result of running the program on the original color im
 
 ![](checker_values.png)
 
+Now the squares marked A and B look like the same color, allowing us to see through the illusion.
+
 Though this example is demonstrated with a crafted visual illusion, artists looking to produce realism face this illusion all the time. As an example, while looking at a portrait a highlight surrounded by dark areas will appear much brighter than reality. This simple program allows for a quick visualization of the values of any image 
