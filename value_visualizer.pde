@@ -2,13 +2,13 @@ PImage img, img_grey;
 String file;
 
 void setup() {
-  size(1400, 500);
+  size(1000, 500);
   file = "checker.jpg";
   img = loadImage(file);
   img_grey = loadImage(file);
   img_grey.filter(GRAY);
-  img.resize(700, 1000);
-  img_grey.resize(700, 500);
+  img.resize(500, 1000);
+  img_grey.resize(500, 500);
 }
 
 void draw() {
@@ -71,5 +71,5 @@ void draw() {
   
   }
   updatePixels();
-  image(img_grey, 700, 0);
+  image(img_grey, 500, 0);
 }
