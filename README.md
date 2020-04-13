@@ -23,3 +23,5 @@ The top row shows 10 value steps from black to white. The second row shows the c
 The image below shows the result of running the program on the original color image:
 
 ![](checker_values.png)
+
+Though this example is demonstrated with a crafted visual illusion, artists looking to produce realism face this illusion all the time. As an example, while looking at a portrait a highlight surrounded by dark areas will appear much brighter than reality. This simple program allows for a quick visualization of the values of any image 
