@@ -6,7 +6,7 @@ This is the famous checkerboard illusion:
 
 ![](checker.jpg)
 
-Even though the squares marked A and B, do not look like it, they are identical colors!
+Even though the squares marked A and B do not look like it, they are identical colors!
 
 <br>
 
