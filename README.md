@@ -4,7 +4,7 @@
 
 This is the famous checkerboard illusion:
 
-![](checker.jpg)
+![](images/checker.jpg)
 
 Even though the squares marked A and B do not look like it, they are identical colors!
 
@@ -12,17 +12,17 @@ Even though the squares marked A and B do not look like it, they are identical c
 
 Converting the image to greyscale (i.e., black and white) does not help see through the illusion:
 
-![](checker_greyscale.png)
+![](images/checker_greyscale.png)
 
 This program, written in Processing 3, converts any grey scale image the series of colors shown in the scale below:
 
-![](scale.png)
+![](images/scale.png)
 
 The top row shows 10 value steps from black to white. The second row shows the conversion the program produces.
 
 The image below shows the result of running the program on the original color image:
 
-![](checker_values.png)
+![](images/checker_values.png)
 
 Now the squares marked A and B look like the same color, allowing us to see through the illusion.
 
